@@ -1,5 +1,7 @@
 # Weather app
-Watch <a href="https://jenniferslagt.github.io/vue-weather-app/"> here </a>
+![Schermafbeelding 2020-09-28 om 16 32 35](https://user-images.githubusercontent.com/45489420/94445855-3c231e00-01a8-11eb-80d7-f3a8c1eab1f1.png)
+
+Check it <a href="https://jenniferslagt.github.io/vue-weather-app/"> here </a>
 
 ## Description
 The weather app is a small app in which you have actually one main functionality: searching for a location and displaying the weather about that location. This app is made with the Vue.js framework and the Open Weather API. 
@@ -20,9 +22,9 @@ The main goal on this small weather app is to learn Vue.js, this is what I've do
 * Props are used for data from the parent to the component(s).
 * You can use $emit and $on to send data from the child and receive it on the child.
 * I understand how to use conditional states. 
-* You can toggle CSS classes based on the dynamic data.
+* You can toggle CSS classes based on the dynamic data. Fun fact: I changed the background based on the temperature with a simple class. When it's "warm" the background will be a desert, otherwise it will be a cold snowy background.
 
-In short: this project was focused on working with components and dynamic data with Vue.js. 
+In short: this project was focused on working with components and dynamic data with Vue.js. I used the tutorial as a begin, then I splitted it up in more components and added some other features to make this work (check the sources for more info).
 
 
 ## Project setup
@@ -52,8 +54,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Sources
-[Build a Weather App in VueJS | VueJS Beginner Tutorial](https://www.youtube.com/watch?v=JLc-hWsPTUY)
-[Open Weather API](https://openweathermap.org/api)
-[Passing data between Vue components](https://dev-notes.eu/2018/05/passing-data-between-vue-components/#:~:text=Pass%20Data%20from%20Child%20to,the%20data%20value%20to%20pass.)
-[The Net Ninja: Vue JS 2 Tutorial](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+* [Build a Weather App in VueJS | VueJS Beginner Tutorial](https://www.youtube.com/watch?v=JLc-hWsPTUY)
+* [Open Weather API](https://openweathermap.org/api)
+* [Passing data between Vue components](https://dev-notes.eu/2018/05/passing-data-between-vue-components/#:~:text=Pass%20Data%20from%20Child%20to,the%20data%20value%20to%20pass.)
+* [The Net Ninja: Vue JS 2 Tutorial](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
