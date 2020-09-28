@@ -10,6 +10,7 @@ The weather app is a small app in which you have actually one main functionality
 Vue is a progressive framework for building user interfaces and based on Node.js. Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only, so it's formally made for Front-Enders. Vue.js uses an HTML-based template syntax that allows binding the rendered DOM to the underlying Vue instance's data.  
 
 ## Open Weather API
+The Open Weather API is one of the leading digital weather information providers. They offer a current, forecast and historical collection. I used the current collection. You can easily registrate and get a key to use the free data (check the source for more).
 
 ## Learning goals
 The main goal on this small weather app is to learn Vue.js, this is what I've done: 
