@@ -1,7 +1,7 @@
 # Weather app
 ![Schermafbeelding 2020-09-28 om 16 32 35](https://user-images.githubusercontent.com/45489420/94445855-3c231e00-01a8-11eb-80d7-f3a8c1eab1f1.png)
 
-Check it <a href="https://jenniferslagt.github.io/vue-weather-app/"> here </a>
+Check it <a href="https://vuejsweatherapp.netlify.app/"> here </a>
 
 ## Description
 The weather app is a small app in which you have actually one main functionality: searching for a location and displaying the weather about that location. This app is made with the Vue.js framework and the Open Weather API. 
